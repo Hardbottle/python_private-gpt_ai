@@ -2,7 +2,7 @@
 
 Install Python 3.11 
 
-        ****if you habe multiple python version****
+        ****if you have multiple python version****
         - add "py -3.7 -m" before every command
 
 
