@@ -3,7 +3,7 @@
 Install Python 3.11 
 
         ****if you have multiple python version****
-        - add "py -3.7 -m" before every command
+        - add "py -3.11 -m" before every command
 
 
 Install poetry:
@@ -21,7 +21,7 @@ PrivateGPT Setup:
 
         ****LLM model maybe lock by huggingface_token****
         - pip install --upgrade huggingface_hub
-        - huggingface-cli login ****don't add "py -3.7 -m" before****
+        - huggingface-cli login ****don't add "py -3.11 -m" before****
         - YOUR_ACCESS_TOKEN
 
 To run PrivateGPT
