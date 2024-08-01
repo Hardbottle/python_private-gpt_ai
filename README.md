@@ -19,9 +19,9 @@ PrivateGPT Setup:
         Run setup
         - poetry run python scripts/setup
 
-        ****LLM model maybe lock by huggingface_token****
+        ****LLM model maybe lock by huggingface_token don't add "py -3.11 -m" before if use****
         - pip install --upgrade huggingface_hub
-        - huggingface-cli login ****don't add "py -3.11 -m" before****
+        - huggingface-cli login 
         - YOUR_ACCESS_TOKEN
 
 To run PrivateGPT
