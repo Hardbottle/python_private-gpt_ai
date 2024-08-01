@@ -25,10 +25,12 @@ PrivateGPT Setup:
         - YOUR_ACCESS_TOKEN
 
 To run PrivateGPT
+
         - poetry run python -m private_gpt
 
 
 Install dependency for main.py
+
         - pip install pgpt_python
         - pip install SpeechRecognition
         - pip install pyaudio
@@ -39,4 +41,5 @@ Install dependency for main.py
         - pip install langchain_community
 
 To run main script
+
         - main.py
